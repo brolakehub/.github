@@ -1,3 +1,5 @@
+![BroLake HUB White-logo](./brolake-longLogoWhite.png)
+
 ## Hi there 👋
 
 <!--
