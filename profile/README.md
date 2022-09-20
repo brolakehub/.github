@@ -1,4 +1,4 @@
-![BroLake HUB White-logo](./brolake-longLogoWhite.png)
+![BroLake HUB White-logo](/profile/brolake-longLogoWhite.png)
 
 ## Hi there 👋
 
