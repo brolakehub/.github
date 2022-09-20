@@ -1,4 +1,5 @@
-![BroLake HUB White-logo](/profile/brolake-longLogoWhite.png)
+![BroLake HUB White-logo](/profile/brolake-longLogoWhite.png#gh-dark-mode-only)
+![BroLake HUB Dark-logo](/profile/brolake-longLogoBlack.png#gh-light-mode-only)
 
 ## Hi there 👋
 Hello and welcome to the BroLake HUB organization page. 🤗
